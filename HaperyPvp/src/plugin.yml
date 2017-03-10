@@ -1,0 +1,13 @@
+name: HaperyPVP
+main: fr.haperycube.haperypvp.main
+version: 1.0
+author: aaiach
+
+
+commands:
+  duel:
+    description: quelle duel
+  spawnpoint1:
+    description: quelle duel
+  spawnpoint2:
+    description: quelle duel
