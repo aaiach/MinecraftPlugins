@@ -1,0 +1,12 @@
+name: SkillVote
+main: fr.SkillPvP.Vote.Main
+version: 1.0
+author: aaiach
+
+commands:
+  oui:
+    description: voter oui
+  non:
+    description: voter non
+  sv:
+    description: vote
