@@ -1,0 +1,8 @@
+name: HaperyKit
+main: fr.haperycube.kit.utils.Main
+version: 1.0
+author: aaiach
+
+commands:
+  kit:
+    description: kit
