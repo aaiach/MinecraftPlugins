@@ -1,0 +1,9 @@
+name: MPEngine
+main: me.aaiach.engine.utils.Main
+version: 1.0
+author: aaiach
+
+
+commands:
+  kit:
+    description: kit
